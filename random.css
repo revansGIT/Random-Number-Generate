@@ -1,0 +1,12 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#myBTN{
+    font-size: 3em;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#myLabel{
+    font-size: 3em;
+}
